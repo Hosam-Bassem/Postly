@@ -28,8 +28,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Hosam-Bassem/Listify.git
-   cd Listify
+   git clone https://github.com/Hosam-Bassem/Postly.git
+   cd Postly
    ```
 
 2. **Install dependencies**
